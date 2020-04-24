@@ -1,4 +1,4 @@
-# Is dobartek.hr down?
+# is-dobartek-down
 Check if [dobartek.hr](https://dobartek.hr) is down
 
 ## Usage
