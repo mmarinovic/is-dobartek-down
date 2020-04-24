@@ -1,2 +1,7 @@
-# is-dobartek-down
-Check if dobartek.hr is down
+# Is dobartek.hr down?
+Check if [dobartek.hr](https://dobartek.hr) is down
+
+## Usage
+```
+npx is-dobartek-down
+```
