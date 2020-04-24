@@ -5,3 +5,10 @@ Check if [dobartek.hr](https://dobartek.hr) is down
 ```
 npx is-dobartek-down
 ```
+
+## Install and use
+```
+npm install -g is-dobartek-down
+
+is-dobartek-down
+```

@@ -1,13 +1,13 @@
 {
   "name": "is-dobartek-down",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Check if dobartek.hr is down",
 	"license": "MIT",
 	"repository": "mmarinovic/is-dobartek-down",
 	"author": {
 		"name": "Marko Marinovic",
 		"email": "marinovic.marko@outlook.com",
-		"url": "https://markomarinvic.com"
+		"url": "https://markomarinovic.com"
 	},
 	"bin": "cli.js",
 	"files": [
