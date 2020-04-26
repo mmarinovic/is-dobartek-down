@@ -1,6 +1,6 @@
 {
   "name": "is-dobartek-down",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Check if dobartek.hr is down",
 	"license": "MIT",
 	"repository": "mmarinovic/is-dobartek-down",
