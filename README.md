@@ -1,9 +1,9 @@
 # is-dobartek-down
 <p align="left">
-<img alt="npm version" src="https://img.shields.io/npm/v/is-dobartek-down.svg">
-<img alt="NPM" src="https://img.shields.io/npm/l/is-dobartek-down.svg">
+    <img alt="npm version" src="https://img.shields.io/npm/v/is-dobartek-down.svg">
+    <img alt="NPM" src="https://img.shields.io/npm/l/is-dobartek-down.svg">
 </p>
-Check if https://dobartek.hr is down
+Check if [dobartek.hr](https://dobartek.hr) is down
 
 ## Usage
 ```
